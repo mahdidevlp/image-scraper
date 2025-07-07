@@ -1,0 +1,10 @@
+# Sample URLs for batch processing
+# Lines starting with # are comments and will be ignored
+
+# News and media sites
+https://example.com/gallery
+https://example.com/photos
+
+# Note: Replace these with actual URLs you want to scrape
+# Make sure you have permission to scrape these websites
+# Always respect robots.txt and terms of service
